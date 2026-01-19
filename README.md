@@ -1,0 +1,2 @@
+# Taylor_Iterative-Positioning_Algorithm
+本项目旨在实现由王鼎主编的《基于Taylor级数迭代的无源定位理论与方法》
