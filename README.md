@@ -1,2 +1,3 @@
 # Taylor_Iterative-Positioning_Algorithm
 本项目旨在实现由王鼎主编的《基于Taylor级数迭代的无源定位理论与方法》的Matlab代码
+算法包括单目标AOA/TDOA/FDOA/GROA联合定位，多目标定位，以及已知目标等式约束下的目标定位
